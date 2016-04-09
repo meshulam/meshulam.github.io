@@ -5,8 +5,7 @@ date: '2009-06-27 23:18:49'
 ---
 
 
-[![britney](http://res.cloudinary.com/meshulam/image/upload/v1437619446/britney_his1n4.jpg "britney")](http://res.cloudinary.com/meshulam/image/upload/v1437619446/britney_his1n4.jpg)
-
+{% include _image.html img="2009-06-27-britney_his1n4.jpg" caption="britney" title="britney"  %}
 In the wake of Michael Jackson's death, I keep thinking about two videos. The first is the [South Park episode pictured above](http://www.southparkstudios.com/episodes/164365/?autoplay=false), in which it is revealed that Americans must ritualistically sacrifice Britney Spears by photographing her to death:
 
 > <span style="text-decoration: underline;">Kyle:</span> What is going on?! Why do you want Britney Spears to die?!  

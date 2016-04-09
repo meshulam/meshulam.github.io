@@ -15,6 +15,4 @@ And it gets better from there. I nominated it for Best-of-Craigslist, and I hope
 
 Hat tip to St. Louis music blog [A to Z](http://blogs.riverfronttimes.com/atoz/2008/10/craigslist_missed_connection_broken_social_scene.php)
 
-> 
-
 

@@ -8,8 +8,7 @@ I recently got the itch to make my own sodas and other carbonated beverages. So 
 
 Why DIY instead of use a popular off-the-shelf solution like a SodaStream? I'm not forced to buy CO2 refills through a single source, plus I can carbonate stuff other than pure water (though apparently newer, more expensive SS models are OK for pre-carbonation mixing). Not to mention, now I'm just a few short steps away from having a kegerator setup as well *(step one: cut a hole in a fridge)*.
 
-![The rig](https://res.cloudinary.com/meshulam/image/upload/c_scale,w_1000/v1443752186/2015-10-01_20.56.16_jzhnd2.jpg)
-I've been using the rig for about a month now, and it works like a charm. Here's how I did it.
+{% include _image.html img="2015-10-02-2015-10-01_20.56.16_jzhnd2.jpg" caption="The rig"  %}I've been using the rig for about a month now, and it works like a charm. Here's how I did it.
 
 ## The build
 
@@ -23,8 +22,7 @@ I got a brand new 5lb aluminum cylinder filled with food-grade CO2 from a [local
 
 The assembly was pretty straightforward: screw the regulator onto the tank, and slip the hose onto the barbed output of the regulator. I put the end of the hose into hot water for a minute to soften it up, then lightly tightened the hose clamp onto it.
 
-![The regulator](https://res.cloudinary.com/meshulam/image/upload/c_scale,w_1200/v1443752185/2015-10-01_20.49.52_ckogxd.jpg)
-
+{% include _image.html img="2015-10-02-2015-10-01_20.49.52_ckogxd.jpg" caption="The regulator"  %}
 I always keep the valve on the tank fully opened, but when not in use I close the output valve on the regulator. That seems to strike a good balance between convenience and not losing CO2 to leaks.
 
 ## Using it

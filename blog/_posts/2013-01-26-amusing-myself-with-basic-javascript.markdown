@@ -5,9 +5,9 @@ date: '2013-01-26 18:25:34'
 ---
 
 
-<div class="wp-caption aligncenter" id="attachment_932" style="width: 560px">[![Just look at that URL. Madness!](http://res.cloudinary.com/meshulam/image/upload/h_149,w_550/v1437619278/Screen-Shot-2013-01-25-at-11.47.36-PM1_btmwma.png)](http://res.cloudinary.com/meshulam/image/upload/v1437619278/Screen-Shot-2013-01-25-at-11.47.36-PM1_btmwma.png)Just look at that URL. Madness!
+{% include _image.html img="2013-01-26-Screen-Shot-2013-01-25-at-11.47.36-PM1_btmwma.png" caption="Just look at that URL. Madness!"  %}
 
-</div>Call me crazy, but ever since I noticed the random 32-letter ID's for apps in Google Chrome Web Store URLs (see above), I can't help but imagine pronouncing them in my head. The thought of someone actually trying to read off the nonsensical URL is almost unbearably hilarious to me for some reason. It's just one of those weird things I do to keep myself entertained.
+Call me crazy, but ever since I noticed the random 32-letter ID's for apps in Google Chrome Web Store URLs (see above), I can't help but imagine pronouncing them in my head. The thought of someone actually trying to read off the nonsensical URL is almost unbearably hilarious to me for some reason. It's just one of those weird things I do to keep myself entertained.
 
 So today I decided to take it one step further. I made a bookmarklet that uses Google Translate's text-to-speech engine to get a real robotic pronunciation of the letters in a URL. Naturally it uses the Italian robot voice because it's the funniest one I found. Want to hear the results?
 

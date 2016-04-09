@@ -7,8 +7,7 @@ date: '2009-01-30 01:21:01'
 
 When going through my "to be read later" list recently, I came upon designer Nicholas Felton's [2008 Annual Report](http://www.feltron.com/index.php?/content/2008_annual_report/), courtesy of [Swiss Miss](http://swissmiss.typepad.com/weblog/):
 
-[![feltron1](http://res.cloudinary.com/meshulam/image/upload/v1437619474/feltron1_ymnq53.jpg "feltron1")](http://www.feltron.com/index.php?/content/2008_annual_report/)
-
+{% include _image.html img="2009-01-30-feltron1_ymnq53.jpg" url="http://www.feltron.com/index.php?/content/2008_annual_report/" caption="feltron1" title="feltron1"  %}
 The Report is a beautiful visualization of a year of living; it chronicles everything the author saw and ate, everywhere he traveled, and more. Some of my favorites are a histogram of miles walked per day, and the map/timeline of significant events during the year. This project, in its fourth year, has taken personal data logging to a level I had never before even considered. Imagine Last.fm applied to everything.
 
 Turns out Mr. Felton has a side project, [Daytum](http://www.daytum.com/), which is, in its own words,

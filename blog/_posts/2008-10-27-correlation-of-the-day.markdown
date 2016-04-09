@@ -21,6 +21,5 @@ According to [the Guardian](http://www.guardian.co.uk/music/2008/oct/27/acdc-mus
 
 This is the most important discovery in correlation science since it was found that pirates prevent global warming:
 
-[![](http://www.venganza.org/piratesarecool4.gif "Global Average Temperature v. Number of Pirates")](http://www.venganza.org/about/open-letter/)
-
+{% include _image.html img="http://www.venganza.org/piratesarecool4.gif" url="http://www.venganza.org/about/open-letter/" title="Global Average Temperature v. Number of Pirates"  %}
 

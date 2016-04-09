@@ -1,11 +1,11 @@
 <figure>
     {% if include.url %}
-    <a href="{{ include.url }}"
-       {% if include.lightbox %}class="image-popup"{% else %}target="_blank"{% endif %}
-       >
+    <a href="{{ include.url }}" target="_blank" >
+    {% elsif include.lightbox != false %}
+    <a href="{{ site.url }}/images/{{ include.lightbox_img | default: include.img }}" class="image-popup">
     {% endif %}
-        <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
-    {% if include.url %}
+        <img src="{{ site.url }}/images/{{ include.img }}" alt="{{ include.title }}"/>
+    {% if include.url or include.lightbox != false %}
     </a>
     {% endif %}
     {% if include.caption %}

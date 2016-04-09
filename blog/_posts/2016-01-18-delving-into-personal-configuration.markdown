@@ -26,12 +26,14 @@ I've been using [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) since I s
 
 I made a simple [.zshrc](https://github.com/meshulam/dotfiles/blob/master/.zshrc) that  sources all files in a given directory, letting me split up my config into separate files for aliases, prompt, etc:
 
-    ZSH=~/cfg/zsh
-    GLOB="${ZSH}/*"
-    for sourcefile in $~GLOB
-    do
-        source "$sourcefile"
-    done
+~~~bash
+ZSH=~/cfg/zsh
+GLOB="${ZSH}/*"
+for sourcefile in $~GLOB
+do
+    source "$sourcefile"
+done
+~~~
 
 This seems to be a good compromise between a framework like oh-my-zsh and a single monolithic .zshrc. I started with a totally blank slate and have been re-adding aliases and options that I've noticed not working the way I want or expect. 
 

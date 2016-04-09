@@ -23,7 +23,9 @@ You're effectively taking a picture of each page on your website, so any dynamic
 
 From any Unix/Linux/OSX command line, you can use wget to recursively download all the resources on your site. I used the following command:
 
-> wget --recursive --page-requisites --html-extension --convert-links --domains enerjar.net http://enerjar.net/
+~~~
+wget --recursive --page-requisites --html-extension --convert-links --domains enerjar.net http://enerjar.net/
+~~~
 
 "recursive" says to follow links on the page and continue to follow any links on the sub-pages. "page-requisites" tells wget to download not just the page itself, but resources like CSS and Javascript files. "domains" limits the recursive link-following to the enerjar.net domain, so it doesn't try to download external links.
 

@@ -9,8 +9,8 @@ One of the parts of being the production manager at the [Gargoyle](http://www.th
 
 Which brings me to the most recent booking inquiry I've received. The full email and attached poster:
 
-> [![wrestling](http://res.cloudinary.com/meshulam/image/upload/h_300,w_195/v1437619471/wrestling_tjbpmk.jpg "wrestling")](http://res.cloudinary.com/meshulam/image/upload/v1437619471/wrestling_tjbpmk.jpg)Subject: Micro Wrestling Federation LIVE @ The Gargoyle!!!
-> 
+{% include _image.html img="2009-03-20-wrestling_tjbpmk.jpg" lightbox_img="2009-03-20-wrestling_tjbpmk.jpg" caption="wrestling" title="wrestling"  %}
+Subject: Micro Wrestling Federation LIVE @ The Gargoyle!!!> 
 > Hello, my name is Miguel.  I work for a pro midget wrestling show called the Micro Wrestling Federation . The Micro event is a full scale WWE type event with a professional size wrestling ring and an all midget cast.
 > 
 > The show is one of a kind and we average 500+ fans per show. I have plenty of references that have had sell outs and I wanted to see if I could talk to someone who does your bookings.

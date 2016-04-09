@@ -5,8 +5,7 @@ date: '2010-01-03 12:47:06'
 ---
 
 
-![Stuffed Portabella](http://res.cloudinary.com/meshulam/image/upload/v1437619429/bella1_nzagbn.jpg "bella1")
-
+{% include _image.html img="2010-01-03-bella1_nzagbn.jpg" caption="Stuffed Portabella" title="bella1"  %}
 I like to try new things when I cook, so I tend to use recipes more as a guide than a rulebook. I figured I'd start documenting dishes that are more original, or that I really like.
 
 These stuffed portabella (or portobello, depending on their gender) mushrooms were inspired by a recipe for [zucchini-feta casserole](http://books.google.com/books?id=RIZUbs0nrsIC&lpg=PA114&ots=u4MS5gL4-y&dq=bulgur%20zucchini%20moosewood&pg=PA114#v=onepage&q=&f=false) from one of the Moosewood cookbooks. The stuffing primarily consists of [bulgur](http://en.wikipedia.org/wiki/Bulgur), a hearty middle eastern preparation of whole wheat.
@@ -21,13 +20,12 @@ Since this isn't a perfected recipe, I figured it would work better as a set of 
 - As the stuffing is cooking, grill the mushroom tops in a lightly oiled pan. Put them in right side up at first, then add the filling after you flip them.
 - Sprinkle the filled mushrooms with grated feta and cover the pan for a few minutes to let the cheese melt. You can top them with more black pepper right before serving.
 
-<div class="wp-caption aligncenter" id="attachment_512" style="width: 560px">![](http://res.cloudinary.com/meshulam/image/upload/v1437619428/bella2_xdeonh.jpg "bella2")Portabellas in pan, right after adding stuffing and feta
+{% include _image.html img="2010-01-03-bella2_xdeonh.jpg" caption="Portabellas in pan, right after adding stuffing and feta" title="bella2"  %}
 
-</div>I think they came out quite well for a first attempt, but here are some changes I'd make next time or things I'd like to try:
+I think they came out quite well for a first attempt, but here are some changes I'd make next time or things I'd like to try:
 
 - The only salt in the dish comes from the tomato sauce and feta cheese. I was surprised that it didn't come out bland, but more salt could be added to the stuffing. I would probably also salt the mushrooms themselves as they're grilling.
 - Other veggies to try: spinach, eggplant, red peppers.
 - If you are put off by the brown whole grain vegetarian healthy look, use more veggies or even omit the bulgur altogether. Then you're basically making a ratatouille as the filling.
 - Mix the feta with ricotta or cottage cheese for a creamier cheese component, and put it in the mushroom before the vegetable mixture, for a gooey cheese filling.
-
 

@@ -5,8 +5,7 @@ date: '2009-03-31 23:11:24'
 ---
 
 
-<div class="wp-caption alignright" id="attachment_293" style="width: 204px">[![Poster by Matt Strom](http://res.cloudinary.com/meshulam/image/upload/h_300,w_194/v1437619467/elevenmixtape_mgc6lu.jpg "elevenmixtape")](http://res.cloudinary.com/meshulam/image/upload/v1437619467/elevenmixtape_mgc6lu.jpg)Poster by Matt Strom
-
+{% include _image.html img="2009-03-31-elevenmixtape_mgc6lu.jpg" lightbox_img="2009-03-31-elevenmixtape_mgc6lu.jpg" caption="Poster by Matt Strom" title="elevenmixtape"  %}
 </div>My friends at [Eleven Magazine](http://www.elevenmusicmag.com/) (warning: website perpetually under construction) are hosting a mixtape exchange tomorrow. Burn a CD with some tunes you like, and trade it in for a random stranger's CD. I take my mixes very seriously, so I've been spending a lot of time on the song selection and ordering of this one.
 
 Making a mixtape for a random exchange is a bit different than the normal process, since you have no idea who will be listening to it. However, I had three general guidelines when I was assembling it: First, because I don't know the musical tastes of the recipient, variety was high priority. Secondly, I dug deep into my musical library; I didn't limit this mix to music I'm currently "into". Finally, since the ultimate point of a mixtape exchange is to discover new music, I tended toward the more obscure.

@@ -9,10 +9,11 @@ After a month and a half in a tiny temporary place, I've finally moved into my "
 
 I'm still settling in and deciding how I want to rearrange all the furniture, but it already feels quite homey thanks to Tomas' tasteful decor. See for yourself:
 
-<div class="wp-caption aligncenter" id="attachment_852" style="width: 560px">[![](http://res.cloudinary.com/meshulam/image/upload/h_413,w_550/v1437619325/P1000318_t1apwx.jpg "Main room")](http://res.cloudinary.com/meshulam/image/upload/v1437619325/P1000318_t1apwx.jpg)Bedroom/living area. Need to hang some stuff on the walls. Also note: it's dark outside, as usual.
+{% include _image.html img="2012-11-21-P1000318_t1apwx.jpg" %}
+Bedroom/living area. Need to hang some stuff on the walls. Also note: it's dark outside, as usual.
 
-</div><div class="wp-caption aligncenter" id="attachment_853" style="width: 560px">[![](http://res.cloudinary.com/meshulam/image/upload/h_413,w_550/v1437619325/P1000321_e0y7ha.jpg "Kitchen")](http://res.cloudinary.com/meshulam/image/upload/v1437619325/P1000321_e0y7ha.jpg)Kitchen. Where the magic happens.
+{% include _image.html img="2012-11-21-P1000321_e0y7ha.jpg" caption="Kitchen. Where the magic happens." %}
 
-</div>In other news, I've started taking Swedish classes, but I'll have more on that later.
+In other news, I've started taking Swedish classes, but I'll have more on that later.
 
 

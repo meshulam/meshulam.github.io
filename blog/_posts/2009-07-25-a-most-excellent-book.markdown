@@ -5,8 +5,7 @@ date: '2009-07-25 18:10:34'
 ---
 
 
-[![bookcover](http://res.cloudinary.com/meshulam/image/upload/h_300,w_220/v1437619444/bookcover1_cdqlms.jpg "bookcover")](http://www.amazon.com/Molecular-Gastronomy-Exploring-Traditions-Perspectives/dp/0231133138/)
-
+{% include _image.html img="2009-07-25-bookcover1_cdqlms.jpg" url="http://www.amazon.com/Molecular-Gastronomy-Exploring-Traditions-Perspectives/dp/0231133138/" caption="bookcover" title="bookcover"  %}
 So for the past few weeks I've been reading [*Molecular Gastronomy*](http://www.amazon.com/Molecular-Gastronomy-Exploring-Traditions-Perspectives/dp/0231133138/) by Hervé This (pronounced 'teese'). It consists of 101 short essays where a wide variety of cooking-related concepts are explained with science. The book was a gift from Eve, and it's a testament to how well she knows me, since two of my favorite activities are cooking and [explaining things with science](http://store.xkcd.com/xkcd/#Science).
 
 I'm only about half done with the book (reading collections of short works from cover to cover is another one of my favorite activities), but I felt like I had to write about this book now because IT HAS CHANGED KEANU REEVES'S LIFE. According to [the internet](http://in.news.yahoo.com/139/20090704/906/ten-keanu-reeves-thinking-of-turning-a-t.html):

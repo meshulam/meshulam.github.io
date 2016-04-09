@@ -19,6 +19,5 @@ But now it's gone too far. I can no longer take this novel seriously. *Rama II* 
 
 They literally jumped the sharks! And they were robotic sharks, no less! When a series so blatantly jumps the shark, I just lose all respect for it. I certainly will not be reading *The Garden of Rama* or *Rama Revealed*.
 
-[![](http://res.cloudinary.com/meshulam/image/upload/v1437619506/rama2_e3h6vk.jpg "rama2")](http://res.cloudinary.com/meshulam/image/upload/v1437619506/rama2_e3h6vk.jpg)
-
+{% include _image.html img="2008-10-30-rama2_e3h6vk.jpg" title="rama2"  %}
 

@@ -7,8 +7,7 @@ date: '2013-01-02 21:23:01'
 
 A coworker recently gave me a book that she hoped would help me assimilate into Swedish culture.
 
-[![P1000753](http://res.cloudinary.com/meshulam/image/upload/v1437619281/P1000753_wayj1m.jpg)](http://res.cloudinary.com/meshulam/image/upload/v1437619281/P1000753_wayj1m.jpg)
-
+{% include _image.html img="2013-01-02-P1000753_wayj1m.jpg" lightbox=false  %}
 *Xenophobe's® guide to the Swedes* is a handy guidebook of important Swedish stereotypes and cultural peculiarities. Naturally, it's written in a tongue-in-cheek style, and it covers every angle, from food and dinner parties to  family values and popular culture. Here are some of the profound insights that *Xenophobe's* provides:
 
 On the environment:

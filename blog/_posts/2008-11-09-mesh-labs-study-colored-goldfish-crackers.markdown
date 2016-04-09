@@ -19,8 +19,7 @@ Approximately 15 trials were performed. Detailed data was not recorded since a p
 
 **Conclusions**
 
-![](http://res.cloudinary.com/meshulam/image/upload/v1437619503/goldfish_lneza2.jpg "They all taste the same.")
-
+{% include _image.html img="2008-11-09-goldfish_lneza2.jpg" title="They all taste the same."  %}
 *Unrelated:*[Poutine](http://www.thestar.com/living/Food/article/530474) sure has been coming up in conversation a lot lately, hasn't it?
 
 
