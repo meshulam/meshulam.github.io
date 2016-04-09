@@ -1,0 +1,14 @@
+<figure>
+    {% if include.url %}
+    <a href="{{ include.url }}"
+       {% if include.lightbox %}class="image-popup"{% else %}target="_blank"{% endif %}
+       >
+    {% endif %}
+        <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
+    {% if include.url %}
+    </a>
+    {% endif %}
+    {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+    {% endif %}
+</figure>

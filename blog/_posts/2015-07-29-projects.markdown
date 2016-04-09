@@ -1,0 +1,8 @@
+---
+layout: post
+title: Projects
+date: '2015-07-29 01:57:49'
+---
+
+This page is a list of projects I've done.
+
