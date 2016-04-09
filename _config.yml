@@ -1,0 +1,64 @@
+# Site wide configuration
+
+title:            matt meshulam
+locale:           en_US
+url:              
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+defaults:
+  -
+    scope:
+      path: "projects"
+      type: "posts"
+    values:
+      layout: "project"
+
+# Format titles with titlecase?
+titlecase: true
+
+# Global flags to enable/disable features. Most can also be enabled
+# per-page if the global flag is set to true
+features:
+  share_links: false
+  comments: false
+  related_posts: false
+
+owner:
+  name: Matt Meshulam
+  avatar: mm-photo.jpg
+  bio: "I make things with computers and in reality"
+  email: matt@meshul.am
+  twitter: mattmeshulam
+  facebook: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  github: meshulam
+  linkedin: #username
+  youtube: #username
+  soundcloud: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
