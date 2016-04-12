@@ -5,7 +5,7 @@ date: '2009-06-27 23:18:49'
 ---
 
 
-{% include _image.html img="2009-06-27-britney_his1n4.jpg" caption="britney" title="britney"  %}
+{% include _image.html img="2009-06-27-britney_his1n4.jpg" title="britney"  %}
 In the wake of Michael Jackson's death, I keep thinking about two videos. The first is the [South Park episode pictured above](http://www.southparkstudios.com/episodes/164365/?autoplay=false), in which it is revealed that Americans must ritualistically sacrifice Britney Spears by photographing her to death:
 
 > <span style="text-decoration: underline;">Kyle:</span> What is going on?! Why do you want Britney Spears to die?!  
@@ -32,7 +32,7 @@ The other video touches on a similar theme in a much more thoughtful way. At the
 
 I highly encourage you to watch the full video below:
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="326" width="446"><param name="allowFullScreen" value="true"></param><param name="wmode" value="transparent"></param><param name="bgColor" value="#ffffff"></param><param name="flashvars" value="vu=http://video.ted.com/talks/embed/ElizabethGilbert_2009-embed_high.flv&su=http://images.ted.com/images/ted/tedindex/embed-posters/ElizabethGilbert_2009.embed_thumbnail.jpg&vw=432&vh=240&ap=0&ti=453"></param><param name="src" value="http://video.ted.com/assets/player/swf/EmbedPlayer.swf"></param><param name="bgcolor" value="#ffffff"></param><param name="allowfullscreen" value="true"></param><embed allowfullscreen="true" bgcolor="#ffffff" flashvars="vu=http://video.ted.com/talks/embed/ElizabethGilbert_2009-embed_high.flv&su=http://images.ted.com/images/ted/tedindex/embed-posters/ElizabethGilbert_2009.embed_thumbnail.jpg&vw=432&vh=240&ap=0&ti=453" height="326" src="http://video.ted.com/assets/player/swf/EmbedPlayer.swf" type="application/x-shockwave-flash" width="446" wmode="transparent"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/86x-u-tz0MA" frameborder="0" allowfullscreen></iframe>
 
 And to bring it around full circle, here's a portion of the 2003 documentary *Living with Michael Jackson*. This segment begins just moments after Jackson infamously dangled his baby son from the balcony of a Berlin hotel.
 

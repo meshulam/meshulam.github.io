@@ -8,7 +8,9 @@ I recently got the itch to make my own sodas and other carbonated beverages. So 
 
 Why DIY instead of use a popular off-the-shelf solution like a SodaStream? I'm not forced to buy CO2 refills through a single source, plus I can carbonate stuff other than pure water (though apparently newer, more expensive SS models are OK for pre-carbonation mixing). Not to mention, now I'm just a few short steps away from having a kegerator setup as well *(step one: cut a hole in a fridge)*.
 
-{% include _image.html img="2015-10-02-2015-10-01_20.56.16_jzhnd2.jpg" caption="The rig"  %}I've been using the rig for about a month now, and it works like a charm. Here's how I did it.
+{% include _image.html img="2015-10-02-2015-10-01_20.56.16_jzhnd2.jpg" caption="The rig"  %}
+
+I've been using the rig for about a month now, and it works like a charm. Here's how I did it.
 
 ## The build
 

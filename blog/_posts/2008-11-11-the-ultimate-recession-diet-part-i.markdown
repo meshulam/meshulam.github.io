@@ -11,7 +11,7 @@ With all the news about the economy, I've been hearing a lot of news stories abo
 
 > “**It hasn’t gotten to human food mixed with pet food yet**,” he said, “**but it is certainly headed in that direction.**”
 
-<b> added. I've heard references to people being so poor they had to eat dog food, but I suppose I just assumed it was a figure of speech. But an expert said it! It must be true! Right? So I turned to my trusted advisor in all important matters: Yahoo Answers. In case you aren't familiar with the service, Yahoo Answers is a place where the stupidest people on the internet go to answer the stupidest questions on the internet. It is responsible for the "[How is babby formed?](http://www.somethingawful.com/flash/shmorky/babby.swf)" meme. So let's see what wisdom the Hive Mind has for us today.
+\<b\> added. I've heard references to people being so poor they had to eat dog food, but I suppose I just assumed it was a figure of speech. But an expert said it! It must be true! Right? So I turned to my trusted advisor in all important matters: Yahoo Answers. In case you aren't familiar with the service, Yahoo Answers is a place where the stupidest people on the internet go to answer the stupidest questions on the internet. It is responsible for the "[How is babby formed?](http://www.somethingawful.com/flash/shmorky/babby.swf)" meme. So let's see what wisdom the Hive Mind has for us today.
 
 I found two questions on human consumption of dog food out of necessity. For each posting I will quote a summary of the question as well as some highlights from the answers.
 

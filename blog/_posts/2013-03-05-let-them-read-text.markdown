@@ -23,7 +23,7 @@ The app?
 Yes, that's right. A 40-year-old system for displaying text on a television has been ported to [iPhone](https://itunes.apple.com/se/app/texttv/id323994185?mt=8) and [Android](https://play.google.com/store/apps/details?id=jds.texttv&hl=en), along with the same vintage fonts and colors.
 
 {% include _image.html img="2013-03-05-texttv2_dnnjjw.jpg" caption="TextTV Android app screenshot"  %}
-Apparently the 3rd-party iPhone version was one of the [most popular apps ](http://www.svt.se/nyheter/sverige/text-tv-s-app-i-topp)in Sweden when it was released. According to an editorial director at SVT, "Text-TV has a minimalist style, straightforward language, and an interface with no pictures or anything to overload a mobile. I also think that Text-TV has become a little like a cult, there is some kind of nostalgia for many."
+Apparently the 3rd-party iPhone version was one of the [most popular apps](http://www.svt.se/nyheter/sverige/text-tv-s-app-i-topp) in Sweden when it was released. According to an editorial director at SVT, "Text-TV has a minimalist style, straightforward language, and an interface with no pictures or anything to overload a mobile. I also think that Text-TV has become a little like a cult, there is some kind of nostalgia for many."
 
 May Text-TV live to see another 40 years.
 

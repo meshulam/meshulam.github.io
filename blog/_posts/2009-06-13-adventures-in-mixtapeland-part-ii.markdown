@@ -5,7 +5,7 @@ date: '2009-06-13 14:04:56'
 ---
 
 
-So [a few days ago](http://blog.meshul.am/2009/06/adventures-in-mixtapeland-part-i/), I talked about the mixtape I made for my friend Matt. Overall I think I did quite well; he's gotten really into Sparks and The War on Drugs, and he at least liked the vast majority of the songs. Here's the mix that he made for me (no links to artists because I'm lazy):
+So [a few days ago]({% post_url 2009-06-07-adventures-in-mixtapeland-part-i %}), I talked about the mixtape I made for my friend Matt. Overall I think I did quite well; he's gotten really into Sparks and The War on Drugs, and he at least liked the vast majority of the songs. Here's the mix that he made for me (no links to artists because I'm lazy):
 
 1. Disco Inferno - It's a Kid's World  
  2. Pulp - Mis-Shapes  

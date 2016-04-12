@@ -18,7 +18,7 @@ It just didn't make sense that Swedes would be so down on their homeland. It's s
 After a while, I figured out what was going on. The Swedes, on the whole, actually think quite highly of living in Sweden. However, they are very concerned that foreigners won't like living there. The reasoning pretty much boils down to two points:
 
 1. Sweden is cold.
-2. Sweden is [dark](http://blog.meshul.am/2012/07/here-comes-the-darkness/ "Here comes the darkness").
+2. Sweden is [dark]({% post_url 2012-07-29-here-comes-the-darkness %} "Here comes the darkness").
 
 In my case, their concern was compounded by the fact that I'm coming from a big modern American city. Why would anyone want to abandon the alluring glow of the Chicago skyline, with *multiple* buildings over 20 stories tall, to come to the boring old uneven cobblestone streets of Stockholm? There's not even an Apple store!
 

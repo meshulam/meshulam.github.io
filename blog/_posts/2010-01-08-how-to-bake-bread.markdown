@@ -14,23 +14,23 @@ Background info out of the way, let's get floury. The Tassajara book mainly uses
 
 The standard Tassajara yeasted bread recipe can be found [here](http://books.google.com/books?id=3CSkNr82k38C&lpg=PP1&dq=tassajara%20bread&client=firefox-a&pg=PT58#v=onepage&q=&f=false) via Google Books. I'm not going to bother writing out the whole process; I highly recommend getting a copy of the book if you're interested in baking bread. Below you'll find my photos and a few notes from my most recent batch, a sesame bread.
 
-{% include _image.html img="2010-01-08-IMG_2745-e1262901149455_oh83we.jpg" url="http://blog.meshul.am/blog/wp-content/uploads/2010/01/IMG_2745.jpg" caption="Figure 2: Sponge mixture" title="sponge"  %}
+{% include _image.html img="2010-01-08-IMG_2745-e1262901149455_oh83we.jpg" caption="Figure 2: Sponge mixture" title="sponge"  %}
 
 Since it's pretty cold in my house, I turn on the oven for 30 seconds or so and then let the bread rise in it. The warmer the air, the faster and higher the bread will rise, but I wouldn't go above 85 or 90 degrees F.
 
-{% include _image.html img="2010-01-08-IMG_2748-e1262901123492_gjh8w7.jpg" lightbox_img="2010-01-08-IMG_2748-e1262901123492_gjh8w7.jpg" title="dough" caption="Figure 3: Sponge+time+more flour = Dough!" %}
+{% include _image.html img="2010-01-08-IMG_2748-e1262901123492_gjh8w7.jpg" title="dough" caption="Figure 3: Sponge+time+more flour = Dough!" %}
 
 As I said above, this is the sesame  bread variation (recipe #3 in the 25th anniversary edition of *Tassajara*). I pulsed about 2 cups of sesame seeds in a food processor until pretty much all the seeds were broken apart (a minute or 2). If you make your sesame meal from seeds as I did, be sure not to process them for too long or it will turn into tahini, or sesame paste.
 
-{% include _image.html img="2010-01-08-IMG_2752-e1262901105406_sfilyr.jpg" lightbox_img="2010-01-08-IMG_2752-e1262901105406_sfilyr.jpg" title="dough in bowl" caption="Figure 4: Dough after first rising"  %}
+{% include _image.html img="2010-01-08-IMG_2752-e1262901105406_sfilyr.jpg" title="dough in bowl" caption="Figure 4: Dough after first rising"  %}
 
 Even though I have a pretty good feel for how much a dough will rise, I still get a kick out of taking the first peek and seeing that it doubled in size. Good work, yeast.
 
-{% include _image.html img="2010-01-08-IMG_2753-e1262901090263_upfmhw.jpg" lightbox_img="2010-01-08-IMG_2753-e1262901090263_upfmhw.jpg" title="dough in pans" caption="Figure 5: Dough in loaf pans" %}
+{% include _image.html img="2010-01-08-IMG_2753-e1262901090263_upfmhw.jpg" title="dough in pans" caption="Figure 5: Dough in loaf pans" %}
 
 I need to work on forming the dough into loaves. As you can see, it doesn't quite fill up the whole area of the pan, which leads to a slightly lopsided loaf. It's just a matter of aesthetics; as long as you knead the dough a bit before putting it into the pans, the bread comes out just fine.
 
-{% include _image.html img="2010-01-08-IMG_2755-e1262901073232_ww4v7w.jpg" lightbox_img="2010-01-08-IMG_2755-e1262901073232_ww4v7w.jpg" title="baked" caption="Figure 6: Success" %}
+{% include _image.html img="2010-01-08-IMG_2755-e1262901073232_ww4v7w.jpg" title="baked" caption="Figure 6: Success" %}
 
 I didn't use an egg wash on the tops of the loaves, so it has a great rough texture. I'd highly recommend the sesame variation if you like halva or other sesame-flavored things. Lightly toasted, it makes for a delicious breakfast with greek yogurt, sliced tomatoes, and a bit of salt.
 

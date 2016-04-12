@@ -5,9 +5,9 @@ date: '2008-12-01 22:42:30'
 ---
 
 
-{% include _image.html img="2008-12-01-megabus_panoramic_th_e56xbg.jpg" url="http://blog.meshul.am/blog/wp-content/uploads/2008/11/megabus_panoramic.jpg" title="megabus_panoramic_th"  %}
-Megabus Chicago, November 30, 2008. Click for full panoramic.
-</div>Yesterday I took the [Megabus](http://www.megabus.com/us/index.php) for the twelfth time. As one would expect on the Sunday after Thanksgiving, their Chicago hub was bustling. They ran three buses on the 9am route to St. Louis, and two each to Toledo and Detroit around the same time. When I got to the "station" -- a folding table on Canal Street -- I had my first feeling that perhaps their business model wouldn't be able to scale up to a full-fledged national bus line. I'll start out by ruining the suspense: My bus left only 20 minutes late, made up the time on the way, and got to St. Louis right on time.
+{% include _image.html img="2008-12-01-megabus_panoramic_th_e56xbg.jpg" url="http://blog.meshul.am/blog/wp-content/uploads/2008/11/megabus_panoramic.jpg" caption="Megabus Chicago, November 30, 2008. Click for full panoramic."  %}
+
+Yesterday I took the [Megabus](http://www.megabus.com/us/index.php) for the twelfth time. As one would expect on the Sunday after Thanksgiving, their Chicago hub was bustling. They ran three buses on the 9am route to St. Louis, and two each to Toledo and Detroit around the same time. When I got to the "station" -- a folding table on Canal Street -- I had my first feeling that perhaps their business model wouldn't be able to scale up to a full-fledged national bus line. I'll start out by ruining the suspense: My bus left only 20 minutes late, made up the time on the way, and got to St. Louis right on time.
 
 Now that that's out of the way, let's get down to brass tacks. Megabus is cheap because it doesn't have bus terminals. Megabus is popular because it's so cheap. And when you try to herd 500 cold, hungover college students onto the correct buses, there will be something resembling a mild form of chaos.
 

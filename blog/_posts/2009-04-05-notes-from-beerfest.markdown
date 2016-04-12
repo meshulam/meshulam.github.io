@@ -12,7 +12,6 @@ The beer of the day came from my favorite brewery, Bell's. Spring has barely spr
 - Weirdest, least drinkable, beer: [Avery Mephistopheles Stout](http://www.averybrewing.com/BigBeers/seasonal/MephistophelesStout). Their rep proudly described this beer as "obnoxious." At 16% alcohol and over 100 [IBU's](http://en.wikipedia.org/wiki/International_Bitterness_Units_scale), it'd be hard to disagree. I initially thought the meager sample sizes were a product of stinginess, it turned out to be mercy.
 {% include _image.html img="2009-04-05-img_2478_yvi5ru.jpg" lightbox_img="2009-04-05-img_2478_yvi5ru.jpg" caption="What's that? Lip balm?" title="img_2478"  %}
 {% include _image.html img="2009-04-05-img_2479_lmiccv.jpg" lightbox_img="2009-04-05-img_2479_lmiccv.jpg" caption="Nope, a patch kit for your bike!" title="img_2479"  %}
-</div>
 
 Thanks to everyone at TW&CP for putting on such a great (free!) event. In conclusion, hooray beer!
 

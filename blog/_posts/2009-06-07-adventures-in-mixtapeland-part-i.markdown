@@ -5,7 +5,7 @@ date: '2009-06-07 22:02:36'
 ---
 
 
-So as you may recall, I take the task of [creating mixtapes](http://blog.meshul.am/2009/04/the-mixtape-exchange/) very seriously. My most recent mix was an exchange with my friend Matt. This exchange presented a unique challenge, since our musical tastes are incredibly similar, and he keeps pretty good tabs on [my Last.fm profile](http://www.last.fm/user/capzloc). Despite these hurdles, I'm pretty happy with how the mix came out.
+So as you may recall, I take the task of [creating mixtapes]({% post_url 2009-03-31-the-mixtape-exchange %}) very seriously. My most recent mix was an exchange with my friend Matt. This exchange presented a unique challenge, since our musical tastes are incredibly similar, and he keeps pretty good tabs on [my Last.fm profile](http://www.last.fm/user/capzloc). Despite these hurdles, I'm pretty happy with how the mix came out.
 
 I started assembling the mixtape by comparing our Last.fm profiles, which keep track of every song we listen to. Out of the 100 artists I listen to most frequently, Matt had zero listens logged for 20 of them. I was able to toss out many of them based on what I know about his taste in music. Out of the 20 artists, I wound up putting five on the mix.
 

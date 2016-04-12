@@ -26,6 +26,6 @@ About 24 months of data were taken for each state (some months had incomplete da
 {% include _image.html img="2008-12-28-mpgtemp_ejmqp4.gif" caption="mpgtemp" title="mpgtemp"  %}
 Although the variance is somewhat high due to the approximations taken, there is a significant downward trend with decreasing temperature below about 40 degrees. As it goes from 40 to 20 degrees Fahrenheit, you lose about two miles per gallon, on the order of 10%. The quadratic trendline gave by far the best fit, with an R-squared of almost exactly 0.5. Note that the trendline indicates a slight dropoff in fuel efficiency with very high temperatures, but I'd need to throw some southwestern states in to see if that trend holds up.
 
-No posts for about a week and a half; I'll be [in Israel](http://blog.meshul.am/2008/11/currency-events/).
+No posts for about a week and a half; I'll be [in Israel]({% post_url 2008-11-17-currency-events %}).
 
 
