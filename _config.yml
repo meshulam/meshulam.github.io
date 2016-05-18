@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            matt meshulam
+title:            m_m
 locale:           en_US
 url:              
 
@@ -45,20 +45,15 @@ features:
 owner:
   name: Matt Meshulam
   avatar: mm-photo.jpg
-  bio: "I make things with computers and in reality"
+  bio: "Maker at large"
   email: matt@meshul.am
   twitter: mattmeshulam
-  facebook: #username
+  github: meshulam
   google:
-    plus: #username
-    analytics:
+    analytics: UA-10069676-2
     verify:
     ad-client:
     ad-slot:
-  github: meshulam
-  linkedin: #username
-  youtube: #username
-  soundcloud: #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
