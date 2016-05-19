@@ -1,10 +1,17 @@
 # Site wide configuration
 
-title:            m_m
+title:            M&#x36b;E&#x363;S&#x36d;H&#x36d;ULAM
+
 locale:           en_US
 #url:              /website
 #baseurl:          /website
 
+# unicode:
+# 
+# &#x363; superscript a
+# &#x36b; superscript m
+# &#x36d; superscript t
+# &#x307; superscript dot
 
 # Jekyll configuration
 
