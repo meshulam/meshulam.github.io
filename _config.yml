@@ -2,8 +2,8 @@
 
 title:            m_m
 locale:           en_US
-url:              /website
-baseurl:          /website
+#url:              /website
+#baseurl:          /website
 
 
 # Jekyll configuration
