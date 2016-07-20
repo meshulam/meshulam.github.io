@@ -1,0 +1,15 @@
+---
+title: Cautious optimism
+date: '2008-11-02 21:25:14'
+---
+
+
+I'd like to keep my personal political views out of this space as much as possible and keep the focus on evenhanded analysis, but I'll be making two exceptions: this post and probably a post on Tuesday evening. Election day is in two days. The polls have been stabilizing at somewhere around Obama +4-6. October has come and gone without any real October Surprises. I think I'm finally ready to be cautiously optimistic about Barack Obama's chances at winning the election. I'm definitely feeling good about how things are going, but of course nothing is a certainty. Here's why I qualify my optimism with caution:
+
+- Election fraud: We saw in Ohio four years ago how many polling locations in black neighborhoods were horrendously understaffed and ill-equipped for the number of voters that came. Many people blamed the (Republican) Secretary of State for intentionally mismanaging the resources in an effort to reduce Democratic turnout. I don't know enough to say if this is true, but it would be ignorant to deny that this sort of thing happens in every election. Another thing to watch out for is confusing ballot design. Florida's butterfly ballots became infamous, and I believe that the Pennsylvania early voting ballot has a straight-party vote option, but the presidential vote still has to be entered separately. Of course, these confusing designs don't always help a certain political party, but it's conceivable that a bad ballot design could swing the results in a state by at least a fraction of a point. And on the topic of election fraud, don't even get me started on electronic voting in this country.
+- Young ones stay home: I'm not all that worried about this one, but it could happen. Much of Obama's support comes from the 18-24 demographic. Historically, their turnout has been lower than the population at large, but most analysts expect their enthusiasm about this race to move more of them to vote. If too many college students get stoned and forget to vote on Tuesday, that could be significant. But since the Obama campaign has such a strong Get Out the Vote framework, I too expect the youth turnout to be above 2004 levels.
+- Bradley effect: Probably the most commonly cited reason to worry about a McCain upset. The effect is named after an African-American candidate for Governor of California in the 80's. He narrowly lost after leading in the polls, and many believe that some white voters were afraid to admit to pollsters that they weren't voting for the black candidate, for fear of being called a racist. Nate Silver of FiveThirtyEight has a [great writeup](http://www.fivethirtyeight.com/2008/10/if-bradley-effect-is-gone-what-happened.html) on why we may not need to worry about the Bradley Effect.
+
+I'm comforted that none of these factors are likely to significantly swing the race. The fact that there are anywhere between five and eight tipping point states (depending on who you ask) and that Obama has leads in most of them will help me sleep for the next two nights. After then, hopefully sleeping won't be a problem.
+
+

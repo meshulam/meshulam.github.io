@@ -6,19 +6,53 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "en-US"
+title                    : matt meshulam
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : &name "Matt Meshulam"
+description              : &description "Maker at large"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-# breadcrumbs            : false # true, false (default)
+teaser                   : placeholder-sm.png   # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+
+
+####### Begin MM added ######
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      category: blog
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: true
+
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+###### End MM added ######
+
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -37,7 +71,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : mattmeshulam
 facebook:
   username               :
   app_id                 :
@@ -52,9 +86,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-10069676-2
 
 # Google AdSense
 google_ad_client         :
@@ -63,11 +97,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Matt Meshulam"
+  avatar           : "mm-photo.jpg"
+  bio              : "Maker at large"
+  location         : "Chicago, USA"
+  email            : "matt@meshul.am"
   uri              :
   bitbucket        :
   codepen          :
@@ -75,7 +109,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : meshulam
   google_plus      :
   keybase          :
   instagram        :
@@ -86,7 +120,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : mattmeshulam
   vine             :
   weibo            :
   xing             :
@@ -148,10 +182,10 @@ kramdown:
 
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink: /:categories/:year/:title/
+#paginate: 10 # amount of posts to show
+#paginate_path: /page:num/
+timezone: "America/Chicago"  # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

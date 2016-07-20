@@ -1,0 +1,23 @@
+---
+title: On Tags
+date: '2008-11-23 23:53:17'
+---
+
+
+{% include _image.html img="2008-11-23-tagcloud1_okvglw.png" title="tagcloud1"  %}
+If you use the internet, you're probably familiar with the concept of "tags." Instead of categorizing articles or links or anything into predefined folders, you can apply any number of arbitrary tags to the object. The idea is that this increased flexibility makes it easier to find entries pertaining to a specific topic when you can tag them with anything.
+
+But there are some big usability problems with tags that make them pretty ineffective in many applications where they're used, and I would like to bring up some of these issues.
+
+The major benefit of tags that I hear is that it is general/elegant/simple/etc. This is a commendable goal in design, but it is possible to construct a framework that is so flexible, it ceases to be a framework at all. This is what happens with tags in many cases. It's up to the author to enforce any organization scheme they choose to follow, since it's usually just as easy to make a new tag as it is to use an existing one. This leads to tags which are virtually duplicates, making it a real pain to actually find what you're looking for. Take, for example, the tag cloud for my [del.icio.us](http://del.icio.us) bookmarks:
+
+{% include _image.html img="2008-11-23-delicious-tags_ul7cxw.png" title="delicious-tags"  %}
+A few comments: first, I know what you're thinking, and I'll be discussing tag clouds specifically in a paragraph or so. Second, I'm not a hardcore Delicious user (tags just aren't for me) so I probably have fewer tags and bookmarks than the average user. Nevertheless, it's pretty clear that there's some serious tagging redundancy going on here: stl, stlouis, 63105; bicycle, bike, cycling; et cetera. I remember bookmarking a great recipe, but did I put it under *cooking* or *recipes*? Or just *food*? Or *vegetarian*? Or all four? I think you get my point. Sidenote: I'm not sure why I decided that carrots deserved their own tag. Next thing I know, every ingredient in every recipe I bookmark will be clamoring to be tagged. Talk about a slippery slope.
+
+And that brings me to visualizing tags. Tag clouds, as seen in the figures above, are the method of choice for displaying tags on the web. Often the size of each word correlates to how many items are described by each tag. Pro: provides an intuitive visual cue to guide the user to the most important tags. Con: ugly as crap. But my biggest problem with tag clouds is that they completely ignore the relationships between the tags themselves. Redundant tags wouldn't be an issue if a visualization instantly made it clear that most things that are tagged with *election* are also tagged with *politics*.  This is a clustering problem, which is a bit above my pay grade, so I'll leave it to [Zach](http://dwiel.net).
+
+I've come up with a few criteria in my search for an alternative to tagging: It must require minimal additional input on the part of the author/categorizor. It needs to be easy to implement, so no crazy semantics algorithms. And there should be no learning required to do it right; it should just work. The best that I've come up with is something I call "thesaurus-augmented search." Google and the other major web search engines do this a little bit, but not nearly to the extent that I'm imagining. Basically, once I finish writing this article, I shouldn't have to scroll down to the next box and type in anything else. I just post the article. And when I want to find it, I search for it. It doesn't matter if I don't use all the right words, because as long as I get the right idea I'll get my search result.
+
+Of course, there are problems with this approach, mainly that you'll always get way more results than you would with regular search. But with a little refinement, I think it would  be pretty fun to play with while I'm waiting for the [semantic web](http://en.wikipedia.org/wiki/Semantic_Web).
+
+

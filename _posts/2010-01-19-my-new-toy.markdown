@@ -1,0 +1,14 @@
+---
+title: My New Toy
+date: '2010-01-19 05:18:53'
+---
+
+
+I got a new toy in the mail today:
+
+{% include _image.html img="2010-01-19-IMG_2786_vgk9kd.jpg" lightbox_img="2010-01-19-IMG_2786_vgk9kd.jpg" caption="PICkit-3" title="IMG_2786"  %}
+A Microchip [PICkit-3 programmer/debugger](http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=1406&dDocName=en538340) and [16F886 demo board](http://www.microchipdirect.com/productsearch.aspx?Keywords=DM164120-3).  I've worked with PICs and other microcontrollers on a handful of projects (most notably, the [EnerJar](http://enerjar.net)), but I've never owned my own programmer. I've got a few projects in mind, and one in particular that I'm sure you'll be hearing about shortly.
+
+I'm still learning my way around Microchip's MPLAB development environment, but I'm hoping to get more comfortable with it so I'm not as intimidated to start a new project. Stay tuned...
+
+
