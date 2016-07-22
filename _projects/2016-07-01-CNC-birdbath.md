@@ -1,5 +1,7 @@
 ---
 title: CNC Birdbath Bowl
+header:
+  teaser: projects/birdbath-th.jpg
 ---
 
 This was a thing I did.

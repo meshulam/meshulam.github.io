@@ -1,9 +1,8 @@
 ---
 title: "Metropol Table"
-excerpt: "Flat-pack coffee table"
 header:
-  image: metropol1.jpg
-  teaser: metropol-th.jpg
+  image: projects/metropol1.jpg
+  teaser: projects/metropol-th.jpg
 
 ---
 
@@ -17,6 +16,7 @@ In March 2015, I spoke at the Chicago Python User Group (ChiPy)
 about Sly and how I used it to create the table.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ib2n2msvVZk" frameborder="0" allowfullscreen></iframe>
+<br>
 
 The Metropol Table continues to serve as my living room coffee table.
 

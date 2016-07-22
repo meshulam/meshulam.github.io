@@ -1,0 +1,22 @@
+Design:
+
+* Projects list
+* Project page
+
+Copy:
+
+* Projects
+
+
+Missing content:
+
+[Download "Music for Headaches I"](http://drop.io/khoxooz/asset/music-for-headaches-1-mp3)
+
+<object data="http://s3.amazonaws.com/stlth/static/production/swf/audio_controller.swf" height="100" type="application/x-shockwave-flash" width="400"><param name="wmode" value="opaque"></param><param name="flashvars" value="song_label=converted-music_for_headaches_live_converted.mp3&music_track=http://drop.io/download/public/jwx3qs028ycqaasr5ymt/40823f5d295e9fa5058230effa2071ef2a544728/59cb7ae0-13d6-012c-f976-f6f33324943c/a2e6a100-22c7-012c-dfad-fbd1135ecf2a/converted-music_for_headaches_live_converted.mp3&autoplay=false"></param><param name="src" value="http://s3.amazonaws.com/stlth/static/production/swf/audio_controller.swf"></param></object>
+[Download](http://drop.io/khoxooz/asset/music-for-headaches-live-mp3)
+
+http://blog.meshul.am/80sPeopleAndComputers/
+
+Synth studio fullsize: {% include _image.html img="2008-11-07-elab1sm1_atw1yh.jpg" url="http://img208.imageshack.us/img208/2173/elab1tz4.jpg" title="E-music lab 1"  %}
+
+

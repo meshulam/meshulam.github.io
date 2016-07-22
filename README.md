@@ -1,3 +1,11 @@
+# matt.meshul.am
+
+My Jekyll-powered personal site.
+
+Two collections: `posts` and `projects`. Each has a `_template.md` with reference front matter
+and stuff
+
+
 # Minimal Mistakes Jekyll Theme
 
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
