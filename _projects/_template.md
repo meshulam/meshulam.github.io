@@ -1,9 +1,10 @@
 ---
 title: "My Project"
 excerpt: "Short project description"
+date_string: "July 2016"    # Defaults to Month DD, YYYY
 header:
-  image: bla.jpg
-  teaser: bla-th.jpg
+  image: bla.jpg    # For big-ass top image
+  teaser: bla-th.jpg    # Thumbnail
 
 gallery:
   - url: gallery-image-1.jpg
