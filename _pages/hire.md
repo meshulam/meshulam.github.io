@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /hire
+permalink: /hire/
 author_profile: true
 ---
 
