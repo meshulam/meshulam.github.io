@@ -8,3 +8,7 @@ main:
 
   - title: blog
     url: /blog/
+
+  - title: hire me
+    url: /hire/
+
